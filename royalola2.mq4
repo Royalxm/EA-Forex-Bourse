@@ -5,7 +5,7 @@
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2014, Royalxm he fuck all EA"
 #property link      "http://worldwide-invest.org"
-#property version   "1.00"
+#property version   "2.00"
 #property strict
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
