@@ -2,9 +2,7 @@
 
 ### What's that?
 
-Langague mt4 même chose que le c et c++ même logique quoi... c'est un logiciel qui joue a la bourse reel ou demo 
-Cela ma pris 1 semaine et 4 semaine de test sous vps resulta aucun crash si on gere bien l'eco 
-Rapport en upload sur demande.
+Langage mt4 même chose que le c et c++ même logique quoi... c'est un logiciel qui joue à la bourse réel ou demo Cela m'a pris unesemaine et 4 semaines de test sous vps résulta aucun crash si on gère bien l'eco Rapport en upload sur demande.
 Version 1 plus attractive que la Version 2 plus safe 
 
 Logiciel : 
