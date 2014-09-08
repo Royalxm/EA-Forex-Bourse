@@ -1,10 +1,9 @@
 //+------------------------------------------------------------------+
 //|                                                     royalola.mq4 |
 //|                           Copyright 2014, Royalxm he fuck all EA |
-//|                                      http://worldwide-invest.org |
+//|                                                                  |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2014, Royalxm he fuck all EA"
-#property link      "http://worldwide-invest.org"
 #property version   "2.00"
 #property strict
 //+------------------------------------------------------------------+
